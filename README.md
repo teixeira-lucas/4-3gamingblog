@@ -16,5 +16,5 @@ Press Start 2P for titles
 Montserrat for paragraphs
 
 Since i'm coding in php format, I recommend you to install MAMP if you want to run the code locally. While it's not in WordPress, I'm hosting at:
-http://www.lucasteixeira.altervista.org/43gamingblog/index.html
+http://www.lucasteixeira.altervista.org/43gamingblog/index.php
 
